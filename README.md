@@ -1,8 +1,8 @@
-# WiFiDemo
+# WiFiDirectDemo
+说明：根据官方的demo整理成Andorid Studio中可编译的项目，并添加使用的测试用例。
 
-说明：根据官方的demo整理成Andorid Studio中可编译的项目。
-
-[**WiFiDirectDemo**](https://android.googlesource.com/platform/development/+/master/samples/WiFiDirectDemo/)
+官方文档：[WLAN 直连（对等连接或 P2P）概览](https://developer.android.google.cn/guide/topics/connectivity/wifip2p)
+官方源码链接：[WiFiDirectDemo](https://android.googlesource.com/platform/development/+/master/samples/WiFiDirectDemo/)
 
 测试用例：
 
