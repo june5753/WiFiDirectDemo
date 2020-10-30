@@ -1,8 +1,7 @@
 # WiFiDemo
 
 说明：根据官方的demo整理成Andorid Studio中可编译的项目。
-
-[**WiFiDirectDemo**](https://android.googlesource.com/platform/development/+/master/samples/WiFiDirectDemo/)
+官方源码链接：[WiFiDirectDemo](https://android.googlesource.com/platform/development/+/master/samples/WiFiDirectDemo/)
 
 测试用例：
 
