@@ -3,6 +3,7 @@
 
 官方文档：[WLAN 直连（对等连接或 P2P）概览](https://developer.android.google.cn/guide/topics/connectivity/wifip2p)
 官方源码链接：[WiFiDirectDemo](https://android.googlesource.com/platform/development/+/master/samples/WiFiDirectDemo/)
+(展示如何创建此客户端-服务器套接字通信，以及如何通过服务将 JPEG 图像从客户端传输到服务器)
 
 测试安装包：
 在apk目录下，文件名为：`wifidirectDemo.apk`。
