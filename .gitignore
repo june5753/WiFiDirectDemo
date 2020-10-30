@@ -1,0 +1,29 @@
+# Created by .ignore support plugin (hsz.mobi)
+#Android generated
+bin
+gen
+
+#Eclipse
+.project
+.classpath
+.settings
+#IntelliJ IDEA
+.idea/
+*.iml
+classes
+out
+production
+build/
+#Command line
+proguard-project.txt
+
+# Android Studio
+.gradle
+local.properties
+.idea/workspace.xml
+.idea/libraries
+.DS_Store
+build
+# Log
+*.log
+.DS_Store
